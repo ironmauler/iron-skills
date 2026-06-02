@@ -1,0 +1,29 @@
+{
+  "name": "iron-skills",
+  "owner": {
+    "name": "iron"
+  },
+  "metadata": {
+    "description": "Iron's personal skill bundle \u2014 writing and editorial tools available in every project",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "iron-skills",
+      "source": "./",
+      "description": "Personal skills: stop-slop AI-writing-pattern audit and editorial tools.",
+      "version": "1.1.0",
+      "author": {
+        "name": "iron"
+      },
+      "keywords": [
+        "writing",
+        "editing",
+        "stop-slop",
+        "editorial"
+      ],
+      "category": "writing",
+      "strict": false
+    }
+  ]
+}
