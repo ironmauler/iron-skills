@@ -4,15 +4,15 @@
     "name": "iron"
   },
   "metadata": {
-    "description": "Iron's personal skill bundle \u2014 writing and editorial tools available in every project",
-    "version": "1.1.0"
+    "description": "Iron's personal skills \u2014 stop-slop, blog pipeline, frontend helpers",
+    "version": "1.2.0"
   },
   "plugins": [
     {
       "name": "iron-skills",
       "source": "./",
-      "description": "Personal skills: stop-slop AI-writing-pattern audit and editorial tools.",
-      "version": "1.1.0",
+      "description": "stop-slop AI-writing audit, 30-skill blog pipeline, React/Vercel helpers",
+      "version": "1.2.0",
       "author": {
         "name": "iron"
       },
