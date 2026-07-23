@@ -5,14 +5,14 @@
   },
   "metadata": {
     "description": "Iron's personal skills \u2014 stop-slop, blog pipeline, frontend helpers",
-    "version": "1.2.0"
+    "version": "1.3.0"
   },
   "plugins": [
     {
       "name": "iron-skills",
       "source": "./",
       "description": "stop-slop AI-writing audit, 30-skill blog pipeline, React/Vercel helpers",
-      "version": "1.2.0",
+      "version": "1.3.0",
       "author": {
         "name": "iron"
       },

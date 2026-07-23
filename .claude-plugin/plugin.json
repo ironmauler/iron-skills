@@ -1,7 +1,7 @@
 {
   "name": "iron-skills",
   "description": "Iron's personal skill bundle \u2014 stop-slop (AI-writing-pattern audit), the full 30-skill blog pipeline, and React/Vercel/frontend helpers. Design-taste skills live upstream in taste-skill.",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "author": {
     "name": "iron"
   },
@@ -57,6 +57,7 @@
     "./skills/react-native-skills",
     "./skills/react-view-transitions",
     "./skills/stop-slop",
+    "./skills/theme-factory",
     "./skills/vercel-cli-with-tokens",
     "./skills/vercel-optimize",
     "./skills/web-design-guidelines"
